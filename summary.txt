@@ -1,0 +1,19 @@
+
+#######################################################
+################MANDATORY PROBLEM######################
+#######################################################
+
+A attachment was provided to me which consist of 1000000 entries many of them are positive and and so many are negative.so, solved that problem in diffrent steps. those steps are mentioned Below:-
+Step 1= first i convert the txt form data into csv format.
+
+Step 2= load that data.
+
+step 3= form a list of the loaded data.
+
+step 3= Take a input value for sum for which program can find pairs from the list.
+
+step 4= call function findpairs which returns the paired values for that sum after searching from the list.
+
+Step 5= print if any find else print message that there is no pair exist.
+
+
